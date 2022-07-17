@@ -93,3 +93,4 @@ Two players are randomly chosen to face off, and have to submit answers to a giv
 Join the [Discord Support Server here](https://discord.gg/7pNEJQC).
 
 ![](https://github.com/zeroclutch/gamebot/blob/master/assets/images/invite_link.png?raw=true)
+# discord-gamebot
